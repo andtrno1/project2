@@ -6,7 +6,8 @@
   ],
   "lastname": [
     { "id": 1, "lastname": "Stockholm" },
-    { "id": 2, "lastname": "William",}
+    { "id": 2, "lastname": "William",},
+     { "id": 3, "lastname": "Bryant",}
   ],
   "email": [
     {"id":1, "email": "jack@gmail.com"},
