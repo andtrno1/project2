@@ -1,13 +1,13 @@
 {
   "firstname": [
-    { "id": 1, "Firstname": "Jack" },
-    { "id": 2, "Firstname: "Jason" },
-    { "id": 3, "Firstname: "Thien" }
+    {"id": 1, "Firstname": "Jack"},
+    {"id": 2, "Firstname": "Jason"},
+    {"id": 3, "Firstname": "Thien"}
   ],
   "lastname": [
-    { "id": 1, "Lastname": "Stockholm" },
-    { "id": 2, "Lastname": "William",},
-     { "id": 3, "Lastname": "Bryant",}
+    {"id": 1, "Lastname": "Stockholm" },
+    {"id": 2, "Lastname": "William"},
+     {"id": 3, "Lastname": "Bryant"}
   ],
   "email": [
     {"id":1, "Email": "jack@gmail.com"},
