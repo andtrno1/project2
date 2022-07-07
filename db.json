@@ -1,24 +1,23 @@
 {
   "firstname": [
-    { "id": 1, "firstname": "Jack" },
-    { "id": 2, "firstname": "Jason" },
-    { "id": 3, "firstname": "Thien" }
+    { "id": 1, "Firstname": "Jack" },
+    { "id": 2, "Firstname: "Jason" },
+    { "id": 3, "Firstname: "Thien" }
   ],
   "lastname": [
-    { "id": 1, "lastname": "Stockholm" },
-    { "id": 2, "lastname": "William",},
-     { "id": 3, "lastname": "Bryant",}
+    { "id": 1, "Lastname": "Stockholm" },
+    { "id": 2, "Lastname": "William",},
+     { "id": 3, "Lastname": "Bryant",}
   ],
   "email": [
-    {"id":1, "email": "jack@gmail.com"},
-    {"id":2,"email": "jason@gmail.com"},
-    {"id":3, "email": "thien@gmail.com"}
+    {"id":1, "Email": "jack@gmail.com"},
+    {"id":2,"Email": "jason@gmail.com"},
+    {"id":3, "Email": "thien@gmail.com"}
     
   ],
   "password": [
-    {"id":1,"password": "12345"},
-    {"id":2, "password": "6789"},
-    {"id":3, "password": "abcd"}
-    
-  ],
+    {"id":1,"Password": "12345"},
+    {"id":2, "Password": "6789"},
+    {"id":3, "Password": "abcd"}
+  ]
 }
