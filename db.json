@@ -1,14 +1,23 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "firstname": [
+    { "id": 1, "firstname": "Jack" },
+    { "id": 2, "firstname": "Jason" },
+    { "id": 3, "firstname": "Thien" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "lastname": [
+    { "id": 1, "lastname": "Stockholm" },
+    { "id": 2, "lastname": "William",}
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "email": [
+    {"id":1, "email": "jack@gmail.com"},
+    {"id":2,"email"l: "jason@gmail.com"},
+    {"id":3, "email": "thien@gmail.com"}
+    
+  ],
+  "password": [
+    {"id":1,"password": "12345"},
+    {"id":2, "password": "6789"},
+    {"id":3, "password": "abcd"}
+    
+  ],
 }
