@@ -10,7 +10,7 @@
   ],
   "email": [
     {"id":1, "email": "jack@gmail.com"},
-    {"id":2,"email"l: "jason@gmail.com"},
+    {"id":2,"email": "jason@gmail.com"},
     {"id":3, "email": "thien@gmail.com"}
     
   ],
